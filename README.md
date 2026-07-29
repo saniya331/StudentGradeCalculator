@@ -99,15 +99,6 @@ Through this project, I learned:
 
 ---
 
-## 🔮 Future Enhancements
-
-- Accept marks for any number of subjects.
-- Add input validation.
-- Calculate GPA.
-- Store student records using files or a database.
-- Develop a graphical user interface (GUI) using Java Swing or JavaFX.
-
----
 
 ## 👩‍💻 Author
 
