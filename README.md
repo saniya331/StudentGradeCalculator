@@ -103,7 +103,6 @@ Through this project, I learned:
 ## 👩‍💻 Author
 
 **Saniya Begum**
-
-B.Tech CSE Student
+GitHub: https://github.com/saniya331/StudentGradeCalculator
 
 Java Programming Internship Project
